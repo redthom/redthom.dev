@@ -40,7 +40,7 @@ Manual deploy: `npx wrangler deploy`.
 
 - **Résumé:** put `resume.pdf` in `public/`, then uncomment the résumé link in `index.html` (search for `resume.pdf`).
 - **New project:** copy the `<article class="project">` block in `index.html`. The card layout stacks automatically.
-- **Cached assets:** files under `/assets/` are cached for a year. Give a changed file a new name (e.g. `triplo-turn-v2.mp4`) rather than overwriting it.
+- **Cached assets:** files under `/assets/` are cached for a year. Give a changed file a new name (e.g. `triplo-two-turns-v2.mp4`) rather than overwriting it.
 
 ## Credits
 
